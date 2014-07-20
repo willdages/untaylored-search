@@ -11,7 +11,7 @@ The following negative search terms are added to your query automatically:
 * Taylor Swift
 * Financial
 * Swift Trans
-* car club
+* Car Club
 * Cycling
 * Dzire
 * Pokemon
