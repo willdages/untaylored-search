@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Untaylored Search",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Get better search results for Apple's Swift language. Start by typing 'swift' (lowercase) in the search bar.",
+    "description": "The description of the application"
+  }
+}
