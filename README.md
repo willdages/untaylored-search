@@ -2,7 +2,7 @@
 
 ## Setup
 
-This project was created with the (https://github.com/yeoman/generator-chrome-extension)[Chrome Extension Yeoman Generator]. To get up and running,
+This project was created with the [Chrome Extension Yeoman Generator](https://github.com/yeoman/generator-chrome-extension). To get up and running:
 
 ### Dependencies
 
