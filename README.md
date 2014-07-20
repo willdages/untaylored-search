@@ -1,5 +1,4 @@
-# Untaylored Search
----
+#Untaylored Search
 
 ## Setup
 
@@ -7,8 +6,8 @@ This project was created with the (https://github.com/yeoman/generator-chrome-ex
 
 ### Dependencies
 
-* (https://www.npmjs.org/)[NPM]
-* (http://bower.io/)[Bower]
+* [NPM](https://www.npmjs.org/)
+* [Bower](http://bower.io/)
 
 ### Running the project
 
